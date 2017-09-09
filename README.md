@@ -1,2 +1,4 @@
 # Huffman Encode_Decode
-A c++ program to compress and decompress files using Huffman algorithm.
+Description:<br/>
+A c++ program to compress and decompress files using Huffman algorithm.<br/>
+The code is well documented and self explainatory.
